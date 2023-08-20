@@ -1,0 +1,54 @@
+c:\users\dara\documents\visual studio 2010\Projects\Azango\Azango\bin\Debug\Azango.exe
+c:\users\dara\documents\visual studio 2010\Projects\Azango\Azango\bin\Debug\Azango.pdb
+c:\users\dara\documents\visual studio 2010\Projects\Azango\Azango\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dara\documents\visual studio 2010\Projects\Azango\Azango\obj\x86\Debug\Azango.Form1.resources
+c:\users\dara\documents\visual studio 2010\Projects\Azango\Azango\obj\x86\Debug\Azango.Properties.Resources.resources
+c:\users\dara\documents\visual studio 2010\Projects\Azango\Azango\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dara\documents\visual studio 2010\Projects\Azango\Azango\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dara\documents\visual studio 2010\Projects\Azango\Azango\obj\x86\Debug\Azango.exe
+c:\users\dara\documents\visual studio 2010\Projects\Azango\Azango\obj\x86\Debug\Azango.pdb
+C:\Users\Dara\Desktop\Projects\Azango\Azango\obj\x86\Debug\Azango.exe
+C:\Users\Dara\Desktop\Projects\Azango\Azango\obj\x86\Debug\Azango.pdb
+C:\Users\Dara\Desktop\Projects\Azango\Azango\bin\Debug\Azango.exe
+C:\Users\Dara\Desktop\Projects\Azango\Azango\bin\Debug\Azango.pdb
+C:\Users\Dara\Desktop\Projects\Azango\Azango\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dara\Desktop\Projects\Azango\Azango\obj\x86\Debug\Azango.Form1.resources
+C:\Users\Dara\Desktop\Projects\Azango\Azango\obj\x86\Debug\Azango.Form2.resources
+C:\Users\Dara\Desktop\Projects\Azango\Azango\obj\x86\Debug\Azango.Form3.resources
+C:\Users\Dara\Desktop\Projects\Azango\Azango\obj\x86\Debug\Azango.Properties.Resources.resources
+C:\Users\Dara\Desktop\Projects\Azango\Azango\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dara\Desktop\Projects\Azango\Azango\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dara\Desktop\Azango\Azango\obj\x86\Debug\Azango.exe
+C:\Users\Dara\Desktop\Azango\Azango\obj\x86\Debug\Azango.pdb
+C:\Users\Dara\Desktop\Azango\Azango\bin\Debug\Azango.exe
+C:\Users\Dara\Desktop\Azango\Azango\bin\Debug\Azango.pdb
+C:\Users\Dara\Desktop\Azango\Azango\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dara\Desktop\Azango\Azango\obj\x86\Debug\Azango.Form1.resources
+C:\Users\Dara\Desktop\Azango\Azango\obj\x86\Debug\Azango.Form2.resources
+C:\Users\Dara\Desktop\Azango\Azango\obj\x86\Debug\Azango.Form3.resources
+C:\Users\Dara\Desktop\Azango\Azango\obj\x86\Debug\Azango.Properties.Resources.resources
+C:\Users\Dara\Desktop\Azango\Azango\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dara\Desktop\Azango\Azango\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\obj\x86\Debug\Azango.exe
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\obj\x86\Debug\Azango.pdb
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\bin\Debug\Azango.exe
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\bin\Debug\Azango.pdb
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\obj\x86\Debug\Azango.Form1.resources
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\obj\x86\Debug\Azango.Form2.resources
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\obj\x86\Debug\Azango.Form3.resources
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\obj\x86\Debug\Azango.Properties.Resources.resources
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dara\Documents\Visual Studio 2010\Projects\Azango Soft\Azango\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\daras\Desktop\Azango\obj\x86\Debug\Azango.exe
+C:\Users\daras\Desktop\Azango\obj\x86\Debug\Azango.pdb
+C:\Users\daras\Desktop\Azango\bin\Debug\Azango.exe
+C:\Users\daras\Desktop\Azango\bin\Debug\Azango.pdb
+C:\Users\daras\Desktop\Azango\obj\x86\Debug\Azango.csprojResolveAssemblyReference.cache
+C:\Users\daras\Desktop\Azango\obj\x86\Debug\Azango.Form1.resources
+C:\Users\daras\Desktop\Azango\obj\x86\Debug\Azango.Form2.resources
+C:\Users\daras\Desktop\Azango\obj\x86\Debug\Azango.Form3.resources
+C:\Users\daras\Desktop\Azango\obj\x86\Debug\Azango.Properties.Resources.resources
+C:\Users\daras\Desktop\Azango\obj\x86\Debug\Azango.csproj.GenerateResource.Cache
+C:\Users\daras\Desktop\c# پروژه های\Azango\obj\x86\Debug\Azango.exe
+C:\Users\daras\Desktop\c# پروژه های\Azango\obj\x86\Debug\Azango.pdb
